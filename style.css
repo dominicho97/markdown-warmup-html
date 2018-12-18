@@ -1,0 +1,17 @@
+
+
+.title{
+  font-size: 26px;
+}
+
+body{
+  margin-left: 200px;
+  position: fixed;
+  color: #24292e;
+  font-size: 16px;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
